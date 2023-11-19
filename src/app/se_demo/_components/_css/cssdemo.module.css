@@ -1,0 +1,101 @@
+.fontRed {
+  color: red;
+}
+.fontSize {
+  font-size: 32px;
+}
+.fontWeight {
+  font-weight: bold;
+}
+.textAlignLeft {
+  text-align: left;
+  background-color: aqua;
+}
+.textAlignCenter {
+  text-align: center;
+  background-color: antiquewhite;
+}
+.textAlignRight {
+  text-align: right;
+  background-color: blueviolet;
+}
+.marginTop {
+  margin-top: 50px;
+  background-color: brown;
+  height: 50px;
+  width: 300px;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.flex {
+  display: flex;
+  justify-content: space-around;
+  background-color: bisque;
+  padding: 30px;
+}
+.flex1 {
+  display: flex;
+  background-color: rgb(255, 132, 132);
+}
+.flex2 {
+  display: flex;
+  background-color: rgb(103, 103, 255);
+}
+.border {
+  border: 3px solid red;
+  width: 200px;
+}
+.borderRedius {
+  border: 3px solid red;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.formFlex {
+  display: flex;
+}
+.headerFlex {
+  display: flex;
+}
+.jsFlex {
+  display: flex;
+}
+.jsMr {
+  margin: 0 5px 0 0;
+}
+.jsMT0 {
+ margin: 0;
+} 
+.jsMb {
+  margin-bottom: 30px;
+} 
+.jsColor {
+  color: red;
+  margin: 0 5px 0 0;
+}
+.todoAppContainer {
+  min-height: 500px;
+}
+.todoContainer {
+  border: 1px solid #002f07;
+  border-radius: 10px;
+  width: 500px;
+  margin-bottom: 10px; 
+}
+.todoItem {
+  font-weight: bold;
+  width: 65%;
+}
+.jsonContainer {
+  margin-bottom: 10px;
+  border-bottom: 1px solid #898989;
+  width: 400px;
+}
+.jsonText {
+  margin: 0;
+}
