@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div>
       <p>カウンター</p>
-      <button onClick={() => setCount(count => count + 2)}>
+      <button onClick={() => setCount(count => count + 1)}>
         カウント
       </button>
       <p>{count}</p>
